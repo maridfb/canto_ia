@@ -9,7 +9,7 @@ ChatGPT - elaboração do texto e dos descritivos de imagem.
 Canva - DreamLab - elaboração da imagem. 
 
 ## 🚀 Resultados
-
+![ciencia](https://github.com/user-attachments/assets/ed6e3039-2fa6-4cdb-9ff9-b81d886ce1af)
 
 ## 💭 Reflexão (Opcional)
 Esta criação celebra a diversidade na ciência, destacando cientistas de ambos os gêneros e suas contribuições essenciais. Ao misturar passado e futuro em uma sala futurística, mostra como as descobertas estão interligadas e inspiram novas gerações. Um tributo ao esforço coletivo e ao impacto contínuo da ciência na sociedade.
